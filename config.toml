@@ -1,6 +1,8 @@
-baseURL = "http:mi-designstudio.com/portfolio2"
+baseURL = "http:mariaines.com/portfolio2"
 languageCode = "en-us"
 title = "portfolio2"
+themeDir = "themes"
+theme="hugo-creative-portfolio-theme"
 [[menu.main]]
 name = "Home"
 weight = -201
