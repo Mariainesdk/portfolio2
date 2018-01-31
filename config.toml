@@ -1,3 +1,32 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "portfolio2"
+[[menu.main]]
+name = "Home"
+weight = -201
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "om"
+weight = -101
+identifier = "om"
+url = "/om/_index.md"
+
+[[menu.main]]
+name = "Portfolio"
+weight = -101
+identifier = "Portfolio"
+url = "/portfolio/"
+
+[[menu.main]]
+name = "kontakt"
+weight = -101
+identifier = "om"
+url = "/kontakt/_index.md"
+
+[[menu.main]]
+name = "blog"
+weight = -101
+identifier = "om"
+url = "/blog/"
